@@ -48,3 +48,6 @@
 [submodule "TandemKit"]
 	path = TandemKit
 	url = git@github.com:jwoglom/tandemkit
+[submodule "EversenseKit"]
+	path = EversenseKit
+	url = https://github.com/loopandlearn/EversenseKit
