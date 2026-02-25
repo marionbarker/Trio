@@ -112,4 +112,5 @@ trailingClosures \
   MinimedKit, \
   TidepoolService, \
   DanaKit, \
-  TandemKit
+  TandemKit, \
+  MedtrumKit
