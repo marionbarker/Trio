@@ -41,13 +41,16 @@
 [submodule "DanaKit"]
 	path = DanaKit
 	url = https://github.com/loopandlearn/DanaKit
+[submodule "EversenseKit"]
+	path = EversenseKit
+	url = https://github.com/loopandlearn/EversenseKit
 [submodule "MedtrumKit"]
 	path = MedtrumKit
 	branch = dev
 	url = https://github.com/loopandlearn/MedtrumKit
+[submodule "OmnipodKit"]
+	path = OmnipodKit
+	url = https://github.com/loopandlearn/OmnipodKit
 [submodule "TandemKit"]
 	path = TandemKit
 	url = git@github.com:jwoglom/tandemkit
-[submodule "EversenseKit"]
-	path = EversenseKit
-	url = https://github.com/loopandlearn/EversenseKit
