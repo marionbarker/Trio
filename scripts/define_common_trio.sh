@@ -33,4 +33,6 @@ TRIO_PROJECTS=( \
     loopandlearn:DanaKit:dev \
     loopandlearn:EversenseKit:dev \
     loopandlearn:MedtrumKit:dev \
+    loopandlearn:OmnipodKit:main \
+    jwoglom:TandemKit:main \
 )
