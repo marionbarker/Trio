@@ -34,5 +34,5 @@ TRIO_PROJECTS=( \
     loopandlearn:MedtrumKit:dev \
     loopandlearn:EversenseKit:dev \
     loopandlearn:OmnipodKit:main \
-    jwoglom:TandemKit:main \
+    jwoglom:TandemKit:dev \
 )
