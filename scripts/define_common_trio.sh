@@ -31,8 +31,8 @@ TRIO_PROJECTS=( \
     loopandlearn:RileyLinkKit:dev \
     loopandlearn:TidepoolService:dev \
     loopandlearn:DanaKit:dev \
-    loopandlearn:EversenseKit:dev \
     loopandlearn:MedtrumKit:dev \
+    loopandlearn:EversenseKit:dev \
     loopandlearn:OmnipodKit:main \
     jwoglom:TandemKit:main \
 )
